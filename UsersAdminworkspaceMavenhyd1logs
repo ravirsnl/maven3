@@ -1,0 +1,47 @@
+2020-03-17 20:38:32 INFO  hydhmr:16 - URL is opened
+  2020-03-17 20:38:32 INFO  hydhmr:22 - entered username
+  2020-03-17 20:38:32 INFO  hydhmr:24 - entered paswprd
+  2020-03-17 20:38:33 INFO  hydhmr:27 - login sussecc
+  2020-03-17 20:38:33 INFO  hydhmr:32 - test case1 success
+  2020-03-17 20:38:41 INFO  hydhmr:18 - URL is opened
+  2020-03-17 20:38:41 INFO  hydhmr:24 - entered username
+  2020-03-17 20:38:41 INFO  hydhmr:26 - entered paswprd
+  2020-03-17 20:38:41 INFO  hydhmr:29 - login sussecc
+  2020-03-17 20:38:42 INFO  hydhmr:32 - clicked stations link
+  2020-03-17 20:38:42 INFO  hydhmr:37 - test case2 success
+  2020-03-17 20:38:46 INFO  hydhmr:17 - URL is opened
+  2020-03-17 20:38:46 INFO  hydhmr:23 - entered username
+  2020-03-17 20:38:46 INFO  hydhmr:25 - entered paswprd
+  2020-03-17 20:38:46 INFO  hydhmr:28 - login sussecc
+  2020-03-17 20:38:48 INFO  hydhmr:31 - clicked profile link
+  2020-03-17 20:38:48 INFO  hydhmr:35 - test case3 success
+  2020-03-17 20:38:54 INFO  hydhmr:17 - URL is opened
+  2020-03-17 20:38:54 INFO  hydhmr:23 - entered username
+  2020-03-17 20:38:54 INFO  hydhmr:25 - entered paswprd
+  2020-03-17 20:38:55 INFO  hydhmr:28 - login sussecc
+  2020-03-17 20:38:55 INFO  hydhmr:30 - logout sussecc
+  2020-03-17 20:38:55 INFO  hydhmr:34 - test case5 success
+  2020-03-17 20:39:49 INFO  hydhmr:16 - URL is opened
+  2020-03-17 20:39:49 INFO  hydhmr:22 - entered username
+  2020-03-17 20:39:50 INFO  hydhmr:24 - entered paswprd
+  2020-03-17 20:39:50 INFO  hydhmr:27 - login sussecc
+  2020-03-17 20:39:50 INFO  hydhmr:32 - test case1 success
+  2020-03-17 20:39:57 INFO  hydhmr:18 - URL is opened
+  2020-03-17 20:39:57 INFO  hydhmr:24 - entered username
+  2020-03-17 20:39:57 INFO  hydhmr:26 - entered paswprd
+  2020-03-17 20:39:59 INFO  hydhmr:29 - login sussecc
+  2020-03-17 20:39:59 INFO  hydhmr:32 - clicked stations link
+  2020-03-17 20:39:59 INFO  hydhmr:37 - test case2 success
+  2020-03-17 20:40:09 INFO  hydhmr:17 - URL is opened
+  2020-03-17 20:40:09 INFO  hydhmr:23 - entered username
+  2020-03-17 20:40:10 INFO  hydhmr:25 - entered paswprd
+  2020-03-17 20:40:10 INFO  hydhmr:28 - login sussecc
+  2020-03-17 20:40:12 INFO  hydhmr:31 - clicked profile link
+  2020-03-17 20:40:12 INFO  hydhmr:35 - test case3 success
+  2020-03-17 20:40:19 INFO  hydhmr:17 - URL is opened
+  2020-03-17 20:40:20 INFO  hydhmr:23 - entered username
+  2020-03-17 20:40:20 INFO  hydhmr:25 - entered paswprd
+  2020-03-17 20:40:21 INFO  hydhmr:28 - login sussecc
+  2020-03-17 20:40:21 INFO  hydhmr:30 - logout sussecc
+  2020-03-17 20:40:21 INFO  hydhmr:34 - test case5 success
+  

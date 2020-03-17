@@ -1,0 +1,95 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="0" ignored="0" total="4" passed="4">
+  <reporter-output>
+  </reporter-output>
+  <suite name="Mavenp3" duration-ms="41977" started-at="2020-03-17T15:09:40Z" finished-at="2020-03-17T15:10:22Z">
+    <groups>
+    </groups>
+    <test name="HMRtest" duration-ms="41977" started-at="2020-03-17T15:09:40Z" finished-at="2020-03-17T15:10:22Z">
+      <class name="com.hmr.testcases.MainLout">
+        <test-method status="PASS" signature="setup(java.lang.String)[pri:0, instance:com.hmr.testcases.MainLout@121b0a2]" name="setup" is-config="true" duration-ms="5643" started-at="2020-03-17T15:10:13Z" finished-at="2020-03-17T15:10:18Z">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[chrome]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setup -->
+        <test-method status="PASS" signature="TC_05()[pri:0, instance:com.hmr.testcases.MainLout@121b0a2]" name="TC_05" duration-ms="2991" started-at="2020-03-17T15:10:18Z" finished-at="2020-03-17T15:10:21Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- TC_05 -->
+        <test-method status="PASS" signature="tearDown()[pri:0, instance:com.hmr.testcases.MainLout@121b0a2]" name="tearDown" is-config="true" duration-ms="748" started-at="2020-03-17T15:10:21Z" finished-at="2020-03-17T15:10:22Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tearDown -->
+      </class> <!-- com.hmr.testcases.MainLout -->
+      <class name="com.hmr.testcases.MainProfile">
+        <test-method status="PASS" signature="setup(java.lang.String)[pri:0, instance:com.hmr.testcases.MainProfile@24a67]" name="setup" is-config="true" duration-ms="7820" started-at="2020-03-17T15:10:01Z" finished-at="2020-03-17T15:10:08Z">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[chrome]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setup -->
+        <test-method status="PASS" signature="TC_03()[pri:0, instance:com.hmr.testcases.MainProfile@24a67]" name="TC_03" duration-ms="3467" started-at="2020-03-17T15:10:08Z" finished-at="2020-03-17T15:10:12Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- TC_03 -->
+        <test-method status="PASS" signature="tearDown()[pri:0, instance:com.hmr.testcases.MainProfile@24a67]" name="tearDown" is-config="true" duration-ms="897" started-at="2020-03-17T15:10:12Z" finished-at="2020-03-17T15:10:13Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tearDown -->
+      </class> <!-- com.hmr.testcases.MainProfile -->
+      <class name="com.hmr.testcases.LoginTest">
+        <test-method status="PASS" signature="setup(java.lang.String)[pri:0, instance:com.hmr.testcases.LoginTest@1afa04c]" name="setup" is-config="true" duration-ms="8015" started-at="2020-03-17T15:09:40Z" finished-at="2020-03-17T15:09:48Z">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[chrome]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setup -->
+        <test-method status="PASS" signature="TC_01()[pri:0, instance:com.hmr.testcases.LoginTest@1afa04c]" name="TC_01" duration-ms="1662" started-at="2020-03-17T15:09:48Z" finished-at="2020-03-17T15:09:50Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- TC_01 -->
+        <test-method status="PASS" signature="tearDown()[pri:0, instance:com.hmr.testcases.LoginTest@1afa04c]" name="tearDown" is-config="true" duration-ms="934" started-at="2020-03-17T15:09:50Z" finished-at="2020-03-17T15:09:51Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tearDown -->
+      </class> <!-- com.hmr.testcases.LoginTest -->
+      <class name="com.hmr.testcases.MainPageTest">
+        <test-method status="PASS" signature="setup(java.lang.String)[pri:0, instance:com.hmr.testcases.MainPageTest@a12c19]" name="setup" is-config="true" duration-ms="4255" started-at="2020-03-17T15:09:51Z" finished-at="2020-03-17T15:09:55Z">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[chrome]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setup -->
+        <test-method status="PASS" signature="TC_02()[pri:0, instance:com.hmr.testcases.MainPageTest@a12c19]" name="TC_02" duration-ms="4160" started-at="2020-03-17T15:09:55Z" finished-at="2020-03-17T15:09:59Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- TC_02 -->
+        <test-method status="PASS" signature="tearDown()[pri:0, instance:com.hmr.testcases.MainPageTest@a12c19]" name="tearDown" is-config="true" duration-ms="1283" started-at="2020-03-17T15:09:59Z" finished-at="2020-03-17T15:10:01Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tearDown -->
+      </class> <!-- com.hmr.testcases.MainPageTest -->
+    </test> <!-- HMRtest -->
+  </suite> <!-- Mavenp3 -->
+</testng-results>

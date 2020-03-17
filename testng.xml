@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE suite SYSTEM "http://testng.org/testng-1.0.dtd">
+
+<suite name="Mavenp3">
+
+<listeners>
+
+<listener class-name="com.hmr.utilities.Reporting"/>
+</listeners>
+
+
+ <test name="HMRtest">
+  <parameter name="browser" value="chrome" />
+  
+    <classes>
+      <class name="com.hmr.testcases.LoginTest"/>
+      <class name="com.hmr.testcases.MainPageTest"/>
+      <class name="com.hmr.testcases.MainProfile"/>
+
+      <class name="com.hmr.testcases.MainLout"/>
+  </classes>
+  </test>
+
+</suite>

@@ -1,0 +1,44 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE suite SYSTEM "http://testng.org/testng-1.0.dtd">
+<suite guice-stage="DEVELOPMENT" name="Failed suite [Mavenp1]">
+  <parameter name="browser" value="chrome"/>
+  <listeners>
+    <listener class-name="com.hmr.utilities.Reporting"/>
+  </listeners>
+  <test name="HMRtest(failed)">
+    <parameter name="browser" value="chrome"/>
+    <classes>
+      <class name="com.hmr.testcases.LoginTest">
+        <methods>
+          <include name="tearDown"/>
+          <include name="setup"/>
+        </methods>
+      </class> <!-- com.hmr.testcases.LoginTest -->
+      <class name="com.hmr.testcases.MainProfile">
+        <methods>
+          <include name="tearDown"/>
+          <include name="setup"/>
+        </methods>
+      </class> <!-- com.hmr.testcases.MainProfile -->
+      <class name="com.hmr.testcases.MainLout">
+        <methods>
+          <include name="tearDown"/>
+          <include name="setup"/>
+        </methods>
+      </class> <!-- com.hmr.testcases.MainLout -->
+      <class name="com.hmr.testcases.MainPageTest">
+        <methods>
+          <include name="tearDown"/>
+          <include name="setup"/>
+        </methods>
+      </class> <!-- com.hmr.testcases.MainPageTest -->
+      <class name="com.hmr.testcases.MainUpdate">
+        <methods>
+          <include name="tearDown"/>
+          <include name="setup"/>
+          <include name="TC_04"/>
+        </methods>
+      </class> <!-- com.hmr.testcases.MainUpdate -->
+    </classes>
+  </test> <!-- HMRtest(failed) -->
+</suite> <!-- Failed suite [Mavenp1] -->

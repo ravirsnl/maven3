@@ -1,0 +1,10 @@
+com\hmr\utilities\Reporting.class
+com\hmr\pages\LoginPage.class
+com\hmr\testcases\MainPageTest.class
+com\hmr\testcases\MainProfile.class
+com\hmr\testcases\LoginTest.class
+com\hmr\utilities\Readconfig.class
+com\hmr\testcases\MainUpdate.class
+com\hmr\testcases\MainLout.class
+com\hmr\testcases\BaseClass.class
+com\hmr\pages\MainPage.class
